@@ -1,0 +1,901 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Machine Learning",
+          "description": "comprehensive list of machine learning resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:49:59Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python data-science handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-26T19:17:33Z",
+            "owner": "jakevdp",
+            "repo": "PythonDataScienceHandbook",
+            "stars": 49591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Papers Reading Roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T13:18:32Z",
+            "owner": "floodsung",
+            "repo": "Deep-Learning-Papers-Reading-Roadmap",
+            "stars": 39551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data science ipython notebooks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T13:52:34Z",
+            "owner": "donnemartin",
+            "repo": "data-science-ipython-notebooks",
+            "stars": 29305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probabilistic Programming and Bayesian Methods for Hackers",
+          "description": "An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-25T20:42:58Z",
+            "owner": "CamDavidsonPilon",
+            "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+            "stars": 28194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dive into machine learning",
+          "description": "collections of links and notebooks for a gentle introduction to machine learning",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-06-17T23:22:08Z",
+            "owner": "dive-into-machine-learning",
+            "repo": "dive-into-machine-learning",
+            "stars": 11393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TopDeepLearning",
+          "description": "is a list of popular github projects related to deep learning (ranked by stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T02:19:53Z",
+            "owner": "aymericdamien",
+            "repo": "TopDeepLearning",
+            "stars": 6258
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scikit Learn",
+          "description": "is a Python module for machine learning built on top of SciPy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:47:24Z",
+            "owner": "scikit-learn",
+            "repo": "scikit-learn",
+            "stars": 66968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keras",
+          "description": "Deep Learning library for Theano, TensorFlow and CNTK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:11:54Z",
+            "owner": "keras-team",
+            "repo": "keras",
+            "stars": 64227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caffe",
+          "description": "deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XGboost",
+          "description": "an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:17:25Z",
+            "owner": "dmlc",
+            "repo": "xgboost",
+            "stars": 28647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tpot",
+          "description": "is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-11T21:32:19Z",
+            "owner": "EpistasisLab",
+            "repo": "tpot",
+            "stars": 10049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch",
+          "description": "provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-31T20:16:24Z",
+            "owner": "torch",
+            "repo": "torch7",
+            "stars": 9138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vowpal Wabbit",
+          "description": "is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T16:21:45Z",
+            "owner": "VowpalWabbit",
+            "repo": "vowpal_wabbit",
+            "stars": 8701
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenNN",
+          "description": "a neural network C++ library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T08:06:11Z",
+            "owner": "Artelnics",
+            "repo": "opennn",
+            "stars": 1197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brainforge",
+          "description": "A Neural Networking library based on NumPy only",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-30T08:54:13Z",
+            "owner": "csxeba",
+            "repo": "brainforge",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Neural networks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gym",
+          "description": "A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-26T23:13:27Z",
+            "owner": "openai",
+            "repo": "gym",
+            "stars": 37241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TFLearn",
+          "description": "is a deep learning library featuring a higher-level API for TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T11:34:20Z",
+            "owner": "tflearn",
+            "repo": "tflearn",
+            "stars": 9577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorforce",
+          "description": "a TensorFlow library for applied reinforcement learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T05:34:38Z",
+            "owner": "tensorforce",
+            "repo": "tensorforce",
+            "stars": 3306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keras-rl",
+          "description": "Deep Reinforcement Learning for Keras.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-23T13:10:46Z",
+            "owner": "matthiasplappert",
+            "repo": "keras-rl",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Reinforcement Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow Examples",
+          "description": "a TensorFlow tutorial with popular machine learning algorithms implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-26T19:46:13Z",
+            "owner": "aymericdamien",
+            "repo": "TensorFlow-Examples",
+            "stars": 43738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIMA python",
+          "description": "Python code for the book Artificial Intelligence: A Modern Approach",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-30T13:24:50Z",
+            "owner": "aimacode",
+            "repo": "aima-python",
+            "stars": 8794
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "Natural Language processing benefits from Recurrent Neural Network algorithms.",
+      "items": [],
+      "title": "NLP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "huggingface/transformers",
+          "description": "State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:11:45Z",
+            "owner": "huggingface",
+            "repo": "transformers",
+            "stars": 164027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpaCy",
+          "description": "is a powerful, production ready, NLP library for python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:44:36Z",
+            "owner": "explosion",
+            "repo": "spaCy",
+            "stars": 33814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastText",
+          "description": "a C++ library for sentence classification",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-03-22T21:40:44Z",
+            "owner": "facebookresearch",
+            "repo": "fastText",
+            "stars": 26541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Language Toolkit",
+          "description": "(NLTK) is a suite of python modules, data sets and tutorials supporting research and development in NLP. Some of its modules are out of date but still a useful resource nonetheless.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:18:56Z",
+            "owner": "nltk",
+            "repo": "nltk",
+            "stars": 14692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextBlob",
+          "description": "is a python library for processing textual data. It provides a simple API for diving into common NLP tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:27:07Z",
+            "owner": "sloria",
+            "repo": "TextBlob",
+            "stars": 9546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langdetect",
+          "description": "is a port of Google's language-detection library to Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-03T13:07:08Z",
+            "owner": "Mimino666",
+            "repo": "langdetect",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simhash",
+          "description": "a python implementation of Simhash Algorithm for detecting near-duplicate web documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-24T19:22:32Z",
+            "owner": "1e0ng",
+            "repo": "simhash",
+            "stars": 1038
+          }
+        }
+      ],
+      "title": "Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dataprofiler",
+          "description": "The DataProfiler is a Python library designed to make data analysis, monitoring and sensitive data detection easy. NLP processing is accomplished using a character-level CNN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T21:32:39Z",
+            "owner": "capitalone",
+            "repo": "DataProfiler",
+            "stars": 1573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inflect.py",
+          "description": "Correctly generate plurals, ordinals, indefinite articles; convert numbers to words",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T23:35:18Z",
+            "owner": "jaraco",
+            "repo": "inflect",
+            "stars": 1082
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CovNetJS",
+          "description": "train Convolutional Neural Networks (or ordinary ones) in the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T21:33:23Z",
+            "owner": "karpathy",
+            "repo": "convnetjs",
+            "stars": 11193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srez",
+          "description": "Image super-resolution through deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-08-16T10:48:45Z",
+            "owner": "david-gpu",
+            "repo": "srez",
+            "stars": 5273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noteshrink",
+          "description": "Convert scans of handwritten notes to beautiful, compact PDFs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T22:27:57Z",
+            "owner": "mzucker",
+            "repo": "noteshrink",
+            "stars": 4841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleCV",
+          "description": "is a framework for machine vision, using OpenCV and Python. It provides a concise, readable interface for cameras, image manipulation, feature extraction, and format conversion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T19:39:00Z",
+            "owner": "sightmachine",
+            "repo": "SimpleCV",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "match",
+          "description": "makes it easy to search for images that look similar to each other",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-25T18:01:58Z",
+            "owner": "dsys",
+            "repo": "match",
+            "stars": 1265
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "7 and a quarter hours of largely highway driving",
+          "description": "from comma.ai research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-16T09:22:12Z",
+            "owner": "commaai",
+            "repo": "research",
+            "stars": 4123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Public APIs",
+          "description": "a collective list of public JSON APIs for use in web development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-23T16:11:30Z",
+            "owner": "toddmotto",
+            "repo": "public-apis",
+            "stars": 2743
+          }
+        }
+      ],
+      "title": "Sources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyspider",
+          "description": "a web crawler system in python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-30T19:43:29Z",
+            "owner": "binux",
+            "repo": "pyspider",
+            "stars": 16789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newspaper",
+          "description": "News, full-text, and article metadata extraction in Python 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:55:32Z",
+            "owner": "codelucas",
+            "repo": "newspaper",
+            "stars": 15140
+          }
+        }
+      ],
+      "title": "Aggregators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chart.js",
+          "description": "HTML5 Charts using the canvas tag",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T21:17:31Z",
+            "owner": "chartjs",
+            "repo": "Chart.js",
+            "stars": 67640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plotly.js",
+          "description": "charting library built on top of d3 and stack.gl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T16:31:10Z",
+            "owner": "plotly",
+            "repo": "plotly.js",
+            "stars": 18284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frappe/charts",
+          "description": "Simple, responsive, modern SVG Charts with zero dependencies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-02T13:26:14Z",
+            "owner": "frappe",
+            "repo": "charts",
+            "stars": 15089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2",
+          "description": "is a visualization grammar, a data-driven visual language with a high level of usability and scalability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T06:47:01Z",
+            "owner": "antvis",
+            "repo": "G2",
+            "stars": 12582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphicsJS",
+          "description": "A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-19T09:18:13Z",
+            "owner": "AnyChart",
+            "repo": "GraphicsJS",
+            "stars": 995
+          }
+        }
+      ],
+      "title": "JavaScript Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dash",
+          "description": "Dash is a Python framework for building analytical web applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:46:28Z",
+            "owner": "plotly",
+            "repo": "dash",
+            "stars": 24376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bqplot",
+          "description": "plotting library for IPython/Jupyter notebooks - front-end in d3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T08:33:08Z",
+            "owner": "bqplot",
+            "repo": "bqplot",
+            "stars": 3694
+          }
+        }
+      ],
+      "title": "Python Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C3.js",
+          "description": "D3-based reusable chart library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T08:50:36Z",
+            "owner": "c3js",
+            "repo": "c3",
+            "stars": 9348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dc.js",
+          "description": "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-31T16:01:22Z",
+            "owner": "dc-js",
+            "repo": "dc.js",
+            "stars": 7431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tau Charts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-04T14:07:25Z",
+            "owner": "TargetProcess",
+            "repo": "tauCharts",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semiotic",
+          "description": "a data visualization framework combining React & D3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-04T20:12:49Z",
+            "owner": "emeeks",
+            "repo": "semiotic",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brite Charts",
+          "description": "reusable Charting Library based on D3.js v4 by https://www.eventbrite.co.uk/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-17T19:06:14Z",
+            "owner": "eventbrite",
+            "repo": "britecharts",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-visualize",
+          "description": "is a d3-view based reactive data-visualization library - alpha",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-03T09:28:09Z",
+            "owner": "quantmind",
+            "repo": "d3-visualize",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "D3 based libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Python",
+          "description": "A curated list of awesome Python frameworks, libraries, software and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive coding challenges",
+          "description": "which focus on algorithms and data structures that are typically found in coding interviews",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-08T23:07:36Z",
+            "owner": "donnemartin",
+            "repo": "interactive-coding-challenges",
+            "stars": 31708
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "To the extent possible under law, Quantmind has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:20.100Z",
+    "original_repository": "quantmind/awesome-data-science-viz",
+    "original_repository_sha": "79d72e0bcd9e4571cc1756dc102c0cd6be9950df",
+    "enhanced_repository": "enhansome/enhansome-data-science-viz",
+    "enhanced_repository_description": null,
+    "title": "Awesome Data Science & Visualization with stars"
+  }
+}
