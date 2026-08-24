@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74131
+                "stars": 74142
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-06-26T19:17:33Z",
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49685
+                "stars": 49688
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39550
+                "stars": 39549
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-06-25T20:42:58Z",
                 "owner": "CamDavidsonPilon",
                 "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-                "stars": 28168
+                "stars": 28170
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-07-15T02:19:53Z",
                 "owner": "aymericdamien",
                 "repo": "TopDeepLearning",
-                "stars": 6286
+                "stars": 6287
               }
             }
           ],
@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 843222,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:56:47Z",
+                "last_commit": "2026-08-24T12:19:11Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67039
+                "stars": 67048
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-21T23:10:41Z",
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64247
+                "stars": 64249
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34561
+                "stars": 34559
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 16587283,
                 "language": "C++",
-                "last_commit": "2026-08-23T08:25:40Z",
+                "last_commit": "2026-08-24T08:45:22Z",
                 "owner": "dmlc",
                 "repo": "xgboost",
-                "stars": 28689
+                "stars": 28690
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2025-09-11T21:32:19Z",
                 "owner": "EpistasisLab",
                 "repo": "tpot",
-                "stars": 10051
+                "stars": 10052
               }
             },
             {
@@ -238,7 +238,7 @@
                 "archived": false,
                 "id": 46130068,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:53:19Z",
+                "last_commit": "2026-08-24T11:45:49Z",
                 "owner": "Artelnics",
                 "repo": "opennn",
                 "stars": 1198
@@ -278,7 +278,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37249
+                "stars": 37250
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2024-07-26T19:46:13Z",
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43737
+                "stars": 43736
               }
             },
             {
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:01:42Z",
+                "last_commit": "2026-08-24T14:07:06Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164378
+                "stars": 164394
               }
             },
             {
@@ -400,10 +400,10 @@
                 "archived": false,
                 "id": 21467110,
                 "language": "Python",
-                "last_commit": "2026-08-07T11:44:36Z",
+                "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33840
+                "stars": 33839
               }
             },
             {
@@ -430,10 +430,10 @@
                 "archived": false,
                 "id": 299862,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:34:52Z",
+                "last_commit": "2026-08-24T14:26:13Z",
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14701
+                "stars": 14702
               }
             },
             {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-07-20T21:32:39Z",
                 "owner": "capitalone",
                 "repo": "DataProfiler",
-                "stars": 1574
+                "stars": 1575
               }
             },
             {
@@ -522,6 +522,28 @@
           "description": null,
           "node_type": "group",
           "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Oxford Deep NLP 2017 course",
+              "description": "lecture slides and course description for the Deep Natural Language Processing course",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81080671,
+                "language": null,
+                "last_commit": "2023-07-02T22:46:23Z",
+                "owner": "oxford-cs-deepnlp-2017",
+                "repo": "lectures",
+                "stars": 15853
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resources"
         }
       ],
       "title": "NLP"
@@ -543,7 +565,7 @@
                 "last_commit": "2023-01-07T21:33:23Z",
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11196
+                "stars": 11197
               }
             },
             {
@@ -558,7 +580,7 @@
                 "last_commit": "2017-08-16T10:48:45Z",
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5271
+                "stars": 5270
               }
             },
             {
@@ -631,7 +653,7 @@
                 "last_commit": "2022-08-16T09:22:12Z",
                 "owner": "commaai",
                 "repo": "research",
-                "stars": 4122
+                "stars": 4123
               }
             },
             {
@@ -683,13 +705,57 @@
                 "last_commit": "2026-08-09T07:55:32Z",
                 "owner": "codelucas",
                 "repo": "newspaper",
-                "stars": 15140
+                "stars": 15141
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Aggregators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crossfilter",
+              "description": "is a JavaScript library for exploring large multivariate datasets in the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3598373,
+                "language": "JavaScript",
+                "last_commit": "2026-03-04T22:45:24Z",
+                "owner": "square",
+                "repo": "crossfilter",
+                "stars": 6189
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Explore"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pytables",
+              "description": "a package for managing hierarchical datasets and designed to efficiently cope with extremely large amounts of data. It is built on top of the HDF5 library and the NumPy package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1844194,
+                "language": "Python",
+                "last_commit": "2026-08-23T15:01:55Z",
+                "owner": "PyTables",
+                "repo": "PyTables",
+                "stars": 1372
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Storage"
         }
       ],
       "title": "Data"
@@ -697,6 +763,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome D3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35890808,
+                "language": null,
+                "last_commit": "2023-01-13T16:10:34Z",
+                "owner": "wbkd",
+                "repo": "awesome-d3",
+                "stars": 5318
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resources"
+        },
         {
           "children": [
             {
@@ -711,7 +799,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67659
+                "stars": 67660
               }
             },
             {
@@ -726,7 +814,7 @@
                 "last_commit": "2026-08-22T22:59:53Z",
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18298
+                "stars": 18299
               }
             },
             {
@@ -930,10 +1018,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:02:10Z",
+                "last_commit": "2026-08-24T06:42:58Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315715
+                "stars": 315800
               }
             },
             {
@@ -955,13 +1043,35 @@
           "description": null,
           "node_type": "group",
           "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Computer science in JavaScript",
+              "description": "Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173796,
+                "language": "JavaScript",
+                "last_commit": "2026-01-08T20:38:10Z",
+                "owner": "humanwhocodes",
+                "repo": "computer-science-in-javascript",
+                "stars": 9109
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
         }
       ],
       "title": "Languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:03:50.783Z",
+    "last_updated": "2026-08-24T14:32:40.645Z",
     "original_repository": "quantmind/awesome-data-science-viz",
     "original_repository_id": 65449846,
     "original_repository_sha": "79d72e0bcd9e4571cc1756dc102c0cd6be9950df",
