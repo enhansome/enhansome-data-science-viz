@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74147
+                "stars": 74148
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-06-26T19:17:33Z",
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49692
+                "stars": 49693
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39546
+                "stars": 39547
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-24T15:38:18Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67057
+                "stars": 67058
               }
             },
             {
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:22:54Z",
+                "last_commit": "2026-08-25T06:25:24Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164409
+                "stars": 164414
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33840
+                "stars": 33841
               }
             },
             {
@@ -595,7 +595,7 @@
                 "last_commit": "2024-03-20T22:27:57Z",
                 "owner": "mzucker",
                 "repo": "noteshrink",
-                "stars": 4840
+                "stars": 4841
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67659
+                "stars": 67660
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-25T00:04:49Z",
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18299
+                "stars": 18300
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-08-24T17:29:25Z",
                 "owner": "plotly",
                 "repo": "dash",
-                "stars": 24381
+                "stars": 24383
               }
             },
             {
@@ -933,7 +933,7 @@
                 "last_commit": "2024-07-31T16:01:22Z",
                 "owner": "dc-js",
                 "repo": "dc.js",
-                "stars": 7430
+                "stars": 7429
               }
             },
             {
@@ -1018,10 +1018,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:42:58Z",
+                "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315894
+                "stars": 315924
               }
             },
             {
@@ -1071,7 +1071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:59:14.668Z",
+    "last_updated": "2026-08-25T06:26:45.198Z",
     "original_repository": "quantmind/awesome-data-science-viz",
     "original_repository_id": 65449846,
     "original_repository_sha": "79d72e0bcd9e4571cc1756dc102c0cd6be9950df",
