@@ -57,8 +57,8 @@ emphasis on [python][], [d3][] and web applications.
 ### Frameworks
 
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,072 | 🐛 2,126 | 🌐 Python | 📅 2026-08-26 is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
-* [Keras](https://github.com/fchollet/keras) ⭐ 64,255 | 🐛 248 | 🌐 Python | 📅 2026-08-26 Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,595 | 🌐 C++ | 📅 2024-07-31 deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
+* [Keras](https://github.com/fchollet/keras) ⭐ 64,255 | 🐛 249 | 🌐 Python | 📅 2026-08-26 Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,592 | 🌐 C++ | 📅 2024-07-31 deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
 * [XGboost](https://github.com/dmlc/xgboost) ⭐ 28,698 | 🐛 421 | 🌐 C++ | 📅 2026-08-26 an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 * [Tpot](https://github.com/rhiever/tpot) ⭐ 10,052 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11 is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 * [Torch](https://github.com/torch/torch7) ⭐ 9,141 | 🐛 298 | 🌐 C | 📅 2025-03-31 provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.
@@ -93,7 +93,7 @@ algorithms.
 
 ### Analysis
 
-* [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 164,498 | 🐛 2,408 | 🌐 Python | 📅 2026-08-27 State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0
+* [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 164,500 | 🐛 2,409 | 🌐 Python | 📅 2026-08-27 State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0
 * [SpaCy](https://github.com/spacy-io/spaCy) ⭐ 33,854 | 🐛 236 | 🌐 Python | 📅 2026-08-24 is a powerful, production ready, NLP library for python
 * [fastText](https://github.com/facebookresearch/fastText) ⚠️ Archived a C++ library for sentence classification
 * [Natural Language Toolkit](https://github.com/nltk/nltk) ⭐ 14,704 | 🐛 236 | 🌐 Python | 📅 2026-08-26 (NLTK) is a suite of python modules, data sets and tutorials supporting research and development in [NLP][]. Some of its modules are out of date but still a useful resource nonetheless.
@@ -159,7 +159,7 @@ algorithms.
 ### JavaScript Libraries
 
 * [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,669 | 🐛 583 | 🌐 JavaScript | 📅 2026-05-27 HTML5 Charts using the canvas tag
-* [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,301 | 🐛 822 | 🌐 JavaScript | 📅 2026-08-25 charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
+* [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,302 | 🐛 822 | 🌐 JavaScript | 📅 2026-08-25 charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
 * [frappe/charts](https://github.com/frappe/charts) ⭐ 15,079 | 🐛 147 | 🌐 JavaScript | 📅 2025-07-02 Simple, responsive, modern SVG Charts with zero dependencies
 * [G2](https://github.com/antvis/g2) ⭐ 12,595 | 🐛 182 | 🌐 TypeScript | 📅 2026-07-15 is a visualization grammar, a data-driven visual language with a high level of usability and scalability
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS) ⭐ 995 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-19 A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
@@ -191,7 +191,7 @@ algorithms.
 
 ### Python
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,379 | 🐛 15 | 🌐 Python | 📅 2026-08-25 A curated list of awesome Python frameworks, libraries, software and resources.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,384 | 🐛 15 | 🌐 Python | 📅 2026-08-25 A curated list of awesome Python frameworks, libraries, software and resources.
 * [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,756 | 🐛 75 | 🌐 Python | 📅 2024-05-08 which focus on algorithms and data structures that are typically found in coding interviews
 
 ### JavaScript

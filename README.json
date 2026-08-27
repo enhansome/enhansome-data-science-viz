@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:25:39Z",
+                "last_commit": "2026-08-27T12:23:47Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164498
+                "stars": 164500
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-25T00:04:49Z",
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18301
+                "stars": 18302
               }
             },
             {
@@ -1021,7 +1021,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316379
+                "stars": 316384
               }
             },
             {
@@ -1071,7 +1071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:45.920Z",
+    "last_updated": "2026-08-27T12:24:29.369Z",
     "original_repository_info": {
       "archived": false,
       "id": 65449846,
