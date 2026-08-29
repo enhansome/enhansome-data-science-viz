@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74195
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -28,12 +33,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+                "homepage": "http://jakevdp.github.io/PythonDataScienceHandbook",
                 "id": 65388917,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-06-26T19:17:33Z",
+                "open_issues": 227,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49722
+                "stars": 49729,
+                "topics": [
+                  "jupyter-notebook",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "scikit-learn"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -44,12 +61,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+                "homepage": null,
                 "id": 70905478,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-27T13:18:32Z",
+                "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39551
+                "stars": 39553,
+                "topics": [
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -60,12 +84,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+                "homepage": null,
                 "id": 29749635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-20T13:52:34Z",
+                "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29330
+                "stars": 29331,
+                "topics": [
+                  "aws",
+                  "big-data",
+                  "caffe",
+                  "data-science",
+                  "deep-learning",
+                  "hadoop",
+                  "kaggle",
+                  "keras",
+                  "machine-learning",
+                  "mapreduce",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "scikit-learn",
+                  "scipy",
+                  "spark",
+                  "tensorflow",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -76,12 +125,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",
+                "homepage": "http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
                 "id": 7607075,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-06-25T20:42:58Z",
+                "open_issues": 203,
                 "owner": "CamDavidsonPilon",
                 "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-                "stars": 28173
+                "stars": 28173,
+                "topics": [
+                  "bayesian-methods",
+                  "data-science",
+                  "jupyter-notebook",
+                  "mathematical-analysis",
+                  "pymc",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -92,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)",
+                "homepage": "http://hangtwenty.github.io/dive-into-machine-learning/",
                 "id": 31186658,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-06-17T23:22:08Z",
+                "open_issues": 0,
                 "owner": "dive-into-machine-learning",
                 "repo": "dive-into-machine-learning",
-                "stars": 11390
+                "stars": 11390,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -108,12 +174,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of popular github projects related to deep learning",
+                "homepage": null,
                 "id": 57182702,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T02:19:53Z",
+                "open_issues": 20,
                 "owner": "aymericdamien",
                 "repo": "TopDeepLearning",
-                "stars": 6298
+                "stars": 6298,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -131,12 +207,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scikit-learn: machine learning in Python",
+                "homepage": "https://scikit-learn.org",
                 "id": 843222,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:28:02Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T21:28:28Z",
+                "open_issues": 2134,
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67085
+                "stars": 67091,
+                "topics": [
+                  "data-analysis",
+                  "data-science",
+                  "machine-learning",
+                  "python",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -147,12 +234,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning for humans",
+                "homepage": "http://keras.io/",
                 "id": 33015583,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:12:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:44:04Z",
+                "open_issues": 232,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64261
+                "stars": 64265,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "jax",
+                  "machine-learning",
+                  "neural-networks",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -163,12 +264,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 12791642,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-31T23:10:28Z",
+                "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34556
+                "stars": 34557,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -179,12 +289,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+                "homepage": "https://xgboost.readthedocs.io/",
                 "id": 16587283,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T12:48:25Z",
+                "open_issues": 424,
                 "owner": "dmlc",
                 "repo": "xgboost",
-                "stars": 28704
+                "stars": 28706,
+                "topics": [
+                  "distributed-systems",
+                  "gbdt",
+                  "gbm",
+                  "gbrt",
+                  "machine-learning",
+                  "xgboost"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -195,12 +317,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
+                "homepage": "http://epistasislab.github.io/tpot/",
                 "id": 45495679,
                 "language": "Jupyter Notebook",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-09-11T21:32:19Z",
+                "open_issues": 312,
                 "owner": "EpistasisLab",
                 "repo": "tpot",
-                "stars": 10051
+                "stars": 10051,
+                "topics": [
+                  "adsp",
+                  "ag066833",
+                  "aiml",
+                  "alzheimer",
+                  "alzheimers",
+                  "automated-machine-learning",
+                  "automation",
+                  "automl",
+                  "data-science",
+                  "feature-engineering",
+                  "gradient-boosting",
+                  "hyperparameter-optimization",
+                  "machine-learning",
+                  "model-selection",
+                  "nia",
+                  "parameter-tuning",
+                  "python",
+                  "random-forest",
+                  "scikit-learn",
+                  "u01ag066833"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -211,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "http://torch.ch",
+                "homepage": null,
                 "id": 13677187,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-31T20:16:24Z",
+                "open_issues": 298,
                 "owner": "torch",
                 "repo": "torch7",
-                "stars": 9141
+                "stars": 9141,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -227,12 +380,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ",
+                "homepage": "https://vowpalwabbit.org",
                 "id": 265995,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T18:58:34Z",
+                "open_issues": 2,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8706
+                "stars": 8706,
+                "topics": [
+                  "active-learning",
+                  "c-plus-plus",
+                  "contextual-bandits",
+                  "cpp",
+                  "learning-to-search",
+                  "machine-learning",
+                  "online-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -250,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenNN - Open Neural Networks Library",
+                "homepage": "http://www.opennn.net",
                 "id": 46130068,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T08:59:39Z",
+                "open_issues": 0,
                 "owner": "Artelnics",
                 "repo": "opennn",
-                "stars": 1198
+                "stars": 1198,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -266,12 +438,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neural Networking library based on NumPy only",
+                "homepage": null,
                 "id": 77904282,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-30T08:54:13Z",
+                "open_issues": 3,
                 "owner": "csxeba",
                 "repo": "brainforge",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "artificial-neural-networks",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "evolutionary-algorithm",
+                  "machine-learning",
+                  "recurrent-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -289,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37246
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -305,12 +494,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning library featuring a higher-level API for TensorFlow.",
+                "homepage": "http://tflearn.org",
                 "id": 55147386,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-06T11:34:20Z",
+                "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9576
+                "stars": 9576,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network",
+                  "tensorflow",
+                  "tflearn"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -321,12 +522,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+                "homepage": null,
                 "id": 85491050,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T05:34:38Z",
+                "open_issues": 44,
                 "owner": "tensorforce",
                 "repo": "tensorforce",
-                "stars": 3305
+                "stars": 3305,
+                "topics": [
+                  "control",
+                  "deep-reinforcement-learning",
+                  "reinforcement-learning",
+                  "system-control",
+                  "tensorflow",
+                  "tensorflow-library",
+                  "tensorforce"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -337,12 +551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Reinforcement Learning for Keras.",
+                "homepage": "http://keras-rl.readthedocs.io/",
                 "id": 578577712,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-05-23T13:10:46Z",
+                "open_issues": 0,
                 "owner": "matthiasplappert",
                 "repo": "keras-rl",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -360,12 +579,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+                "homepage": null,
                 "id": 45986162,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-26T19:46:13Z",
+                "open_issues": 228,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43735
+                "stars": 43735,
+                "topics": [
+                  "deep-learning",
+                  "examples",
+                  "machine-learning",
+                  "python",
+                  "tensorflow",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -376,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
+                "homepage": null,
                 "id": 50881110,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-30T13:24:50Z",
+                "open_issues": 2,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8800
+                "stars": 8800,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -405,12 +641,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+                "homepage": "https://huggingface.co/transformers",
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:51:52Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:30:04Z",
+                "open_issues": 2396,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164559
+                "stars": 164588,
+                "topics": [
+                  "audio",
+                  "deep-learning",
+                  "deepseek",
+                  "gemma",
+                  "glm",
+                  "hacktoberfest",
+                  "llm",
+                  "machine-learning",
+                  "model-hub",
+                  "natural-language-processing",
+                  "nlp",
+                  "pretrained-models",
+                  "python",
+                  "pytorch",
+                  "pytorch-transformers",
+                  "qwen",
+                  "speech-recognition",
+                  "transformer",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -421,12 +682,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+                "homepage": "https://spacy.io",
                 "id": 21467110,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:26:10Z",
+                "open_issues": 236,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33858
+                "stars": 33860,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "cython",
+                  "data-science",
+                  "deep-learning",
+                  "entity-linking",
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "neural-network",
+                  "neural-networks",
+                  "nlp",
+                  "nlp-library",
+                  "python",
+                  "spacy",
+                  "text-classification",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -437,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Library for fast text representation and classification.",
+                "homepage": "https://fasttext.cc/",
                 "id": 63484632,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-03-22T21:40:44Z",
+                "open_issues": 554,
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26534
+                "stars": 26534,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -453,12 +742,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NLTK Source",
+                "homepage": "https://www.nltk.org",
                 "id": 299862,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:14:33Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:50:06Z",
+                "open_issues": 242,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14705
+                "stars": 14706,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "nltk",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -469,12 +769,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.",
+                "homepage": "https://textblob.readthedocs.io/",
                 "id": 11075275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:43:01Z",
+                "open_issues": 71,
                 "owner": "sloria",
                 "repo": "TextBlob",
-                "stars": 9543
+                "stars": 9543,
+                "topics": [
+                  "natural-language-processing",
+                  "nlp",
+                  "nltk",
+                  "pattern",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -485,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of Google's language-detection library to Python.",
+                "homepage": null,
                 "id": 19704737,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-03T13:07:08Z",
+                "open_issues": 71,
                 "owner": "Mimino666",
                 "repo": "langdetect",
-                "stars": 1903
+                "stars": 1903,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -501,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python Implementation of Simhash Algorithm",
+                "homepage": null,
                 "id": 12833146,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-24T19:22:32Z",
+                "open_issues": 7,
                 "owner": "1e0ng",
                 "repo": "simhash",
-                "stars": 1039
+                "stars": 1039,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -524,12 +845,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What's in your data? Extract schema, statistics and entities from datasets",
+                "homepage": "https://capitalone.github.io/DataProfiler",
                 "id": 311379516,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T15:47:52Z",
+                "open_issues": 77,
                 "owner": "capitalone",
                 "repo": "DataProfiler",
-                "stars": 1579
+                "stars": 1579,
+                "topics": [
+                  "avro",
+                  "csv",
+                  "data-analysis",
+                  "data-labels",
+                  "data-science",
+                  "dataprofiling",
+                  "dataset",
+                  "gdpr",
+                  "graph-data",
+                  "machine-learning",
+                  "network-data",
+                  "nlp",
+                  "npi",
+                  "pandas",
+                  "pii",
+                  "privacy",
+                  "python",
+                  "security",
+                  "sensitive-data",
+                  "tabular-data"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -540,12 +887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Correctly generate plurals, ordinals, indefinite articles; convert numbers to words",
+                "homepage": "https://pypi.org/project/inflect",
                 "id": 730520,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-13T23:35:18Z",
+                "open_issues": 65,
                 "owner": "jaraco",
                 "repo": "inflect",
-                "stars": 1083
+                "stars": 1083,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -563,12 +915,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Oxford Deep NLP 2017 course",
+                "homepage": null,
                 "id": 81080671,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-02T22:46:23Z",
+                "open_issues": 12,
                 "owner": "oxford-cs-deepnlp-2017",
                 "repo": "lectures",
-                "stars": 15853
+                "stars": 15853,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "oxford"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -592,12 +955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+                "homepage": null,
                 "id": 15642233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T21:33:23Z",
+                "open_issues": 75,
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11197
+                "stars": 11197,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -608,12 +976,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Image super-resolution through deep learning",
+                "homepage": null,
                 "id": 66682814,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-08-16T10:48:45Z",
+                "open_issues": 5,
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5269
+                "stars": 5269,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -624,12 +997,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert scans of handwritten notes to beautiful, compact PDFs",
+                "homepage": "https://mzucker.github.io/2016/09/20/noteshrink.html",
                 "id": 67506389,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-20T22:27:57Z",
+                "open_issues": 21,
                 "owner": "mzucker",
                 "repo": "noteshrink",
-                "stars": 4841
+                "stars": 4841,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -640,12 +1018,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Source Framework for Machine Vision",
+                "homepage": "http://simplecv.org",
                 "id": 2217282,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-12-20T19:39:00Z",
+                "open_issues": 121,
                 "owner": "sightmachine",
                 "repo": "SimpleCV",
-                "stars": 2730
+                "stars": 2730,
+                "topics": [
+                  "computer-vision",
+                  "cv",
+                  "image-processing",
+                  "python",
+                  "vision",
+                  "visionprocessing"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -656,12 +1046,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch",
+                "homepage": null,
                 "id": 53703716,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-25T18:01:58Z",
+                "open_issues": 17,
                 "owner": "dsys",
                 "repo": "match",
-                "stars": 1265
+                "stars": 1265,
+                "topics": [
+                  "elasticsearch",
+                  "image-signatures",
+                  "kubernetes-cluster"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -685,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dataset and code for 2016 paper \"Learning a Driving Simulator\"",
+                "homepage": null,
                 "id": 64815511,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-08-16T09:22:12Z",
+                "open_issues": 39,
                 "owner": "commaai",
                 "repo": "research",
-                "stars": 4123
+                "stars": 4123,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -701,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collective list of free APIs",
+                "homepage": "http://public-apis.org",
                 "id": 472697800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-23T16:11:30Z",
+                "open_issues": 12,
                 "owner": "toddmotto",
                 "repo": "public-apis",
-                "stars": 2740
+                "stars": 2741,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -724,12 +1133,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Powerful Spider(Web Crawler) System in Python.",
+                "homepage": "http://docs.pyspider.org/",
                 "id": 17066884,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-30T19:43:29Z",
+                "open_issues": 300,
                 "owner": "binux",
                 "repo": "pyspider",
-                "stars": 16773
+                "stars": 16772,
+                "topics": [
+                  "crawler",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -740,12 +1157,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:",
+                "homepage": "https://goo.gl/VX41yK",
                 "id": 14681876,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T07:55:32Z",
+                "open_issues": 514,
                 "owner": "codelucas",
                 "repo": "newspaper",
-                "stars": 15145
+                "stars": 15145,
+                "topics": [
+                  "crawler",
+                  "crawling",
+                  "news",
+                  "news-aggregator",
+                  "python",
+                  "scraper"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -763,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast n-dimensional filtering and grouping of records.",
+                "homepage": "https://square.github.com/crossfilter/",
                 "id": 3598373,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-04T22:45:24Z",
+                "open_issues": 4,
                 "owner": "square",
                 "repo": "crossfilter",
-                "stars": 6189
+                "stars": 6189,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -786,12 +1220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package to manage extremely large amounts of data",
+                "homepage": "http://www.pytables.org",
                 "id": 1844194,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T15:01:55Z",
+                "open_issues": 153,
                 "owner": "PyTables",
                 "repo": "PyTables",
-                "stars": 1372
+                "stars": 1372,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -815,12 +1254,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of D3 libraries, plugins and utilities",
+                "homepage": "https://d3-discovery.net/",
                 "id": 35890808,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-13T16:10:34Z",
+                "open_issues": 5,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5318
+                "stars": 5318,
+                "topics": [
+                  "charts",
+                  "d3js",
+                  "datavisualization",
+                  "javascript",
+                  "maps"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -838,12 +1288,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple HTML5 Charts using the <canvas> tag",
+                "homepage": "https://www.chartjs.org/",
                 "id": 8843683,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
+                "open_issues": 584,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67669
+                "stars": 67670,
+                "topics": [
+                  "canvas",
+                  "chart",
+                  "graph",
+                  "html5",
+                  "html5-charts",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -854,12 +1316,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source JavaScript charting library behind Plotly and Dash",
+                "homepage": "https://plotly.com/javascript/",
                 "id": 45646037,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:38:30Z",
+                "open_issues": 772,
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18304
+                "stars": 18306,
+                "topics": [
+                  "charting-library",
+                  "charts",
+                  "d3",
+                  "data-visualization",
+                  "plotly",
+                  "plotly-dash",
+                  "regl",
+                  "visualization",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -870,12 +1347,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, responsive, modern SVG Charts with zero dependencies",
+                "homepage": "https://frappe.io/charts/docs",
                 "id": 108395495,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-02T13:26:14Z",
+                "open_issues": 147,
                 "owner": "frappe",
                 "repo": "charts",
-                "stars": 15079
+                "stars": 15079,
+                "topics": [
+                  "chart",
+                  "graph",
+                  "hacktoberfest",
+                  "javascript",
+                  "svg",
+                  "svg-chart",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -886,12 +1376,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊 The concise and progressive visualization grammar.",
+                "homepage": "https://g2.antv.antgroup.com",
                 "id": 59737212,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-15T06:47:01Z",
+                "open_issues": 182,
                 "owner": "antvis",
                 "repo": "G2",
-                "stars": 12597
+                "stars": 12597,
+                "topics": [
+                  "animation",
+                  "canvas",
+                  "chart",
+                  "grammar",
+                  "graphics",
+                  "hacktoberfest",
+                  "interaction",
+                  "svg",
+                  "visualization",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -902,12 +1408,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.",
+                "homepage": "http://www.graphicsjs.org/",
                 "id": 57264250,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-19T09:18:13Z",
+                "open_issues": 8,
                 "owner": "AnyChart",
                 "repo": "GraphicsJS",
-                "stars": 995
+                "stars": 995,
+                "topics": [
+                  "anychart",
+                  "google-closure",
+                  "google-closure-library",
+                  "javascript",
+                  "javascript-library",
+                  "svg",
+                  "vector-graphics",
+                  "vml"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -925,12 +1445,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+                "homepage": "https://plotly.com/dash",
                 "id": 33702544,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:50:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:53:13Z",
+                "open_issues": 533,
                 "owner": "plotly",
                 "repo": "dash",
-                "stars": 24391
+                "stars": 24392,
+                "topics": [
+                  "ai",
+                  "bioinformatics",
+                  "charting",
+                  "dash",
+                  "dashboards",
+                  "data-science",
+                  "data-visualization",
+                  "finance",
+                  "flask",
+                  "gui-framework",
+                  "jupyter",
+                  "plotly",
+                  "plotly-dash",
+                  "productivity",
+                  "python",
+                  "react",
+                  "technical-computing",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -941,12 +1485,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plotting library for IPython/Jupyter notebooks",
+                "homepage": "https://bqplot.github.io/bqplot",
                 "id": 43191201,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T08:33:08Z",
+                "open_issues": 278,
                 "owner": "bqplot",
                 "repo": "bqplot",
-                "stars": 3693
+                "stars": 3693,
+                "topics": [
+                  "ipython",
+                  "jupyter",
+                  "visualizations"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -964,12 +1517,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bar_chart: A D3-based reusable chart library",
+                "homepage": "http://c3js.org",
                 "id": 11496279,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T08:50:36Z",
+                "open_issues": 771,
                 "owner": "c3js",
                 "repo": "c3",
-                "stars": 9349
+                "stars": 9349,
+                "topics": [
+                  "chart",
+                  "d3",
+                  "data-visualization",
+                  "graph",
+                  "graphics",
+                  "interactive-visualizations",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -980,12 +1546,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js",
+                "homepage": null,
                 "id": 4714614,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-31T16:01:22Z",
+                "open_issues": 412,
                 "owner": "dc-js",
                 "repo": "dc.js",
-                "stars": 7429
+                "stars": 7428,
+                "topics": [
+                  "charting",
+                  "crossfilter",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -996,12 +1571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D3 based data-focused charting library. Designed with passion. Flexible.",
+                "homepage": "https://www.taucharts.com",
                 "id": 15994863,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-04T14:07:25Z",
+                "open_issues": 100,
                 "owner": "TargetProcess",
                 "repo": "tauCharts",
-                "stars": 1899
+                "stars": 1899,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -1012,12 +1592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A redirect to the new site docs at nteract/semiotic",
+                "homepage": null,
                 "id": 173812582,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-03-04T20:12:49Z",
+                "open_issues": 0,
                 "owner": "emeeks",
                 "repo": "semiotic",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -1028,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 256577334,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-05-17T19:06:14Z",
+                "open_issues": 0,
                 "owner": "eventbrite",
                 "repo": "britecharts",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -1044,12 +1634,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reactive d3 data visualisation components - pre-alpha",
+                "homepage": null,
                 "id": 92678123,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-06-03T09:28:09Z",
+                "open_issues": 7,
                 "owner": "quantmind",
                 "repo": "d3-visualize",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "d3-module",
+                  "d3-view",
+                  "d3js",
+                  "data",
+                  "grid",
+                  "table"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -1073,12 +1675,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316674
+                "stars": 316808,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             },
@@ -1089,12 +1703,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.",
+                "homepage": null,
                 "id": 34757182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-08T23:07:36Z",
+                "open_issues": 75,
                 "owner": "donnemartin",
                 "repo": "interactive-coding-challenges",
-                "stars": 31765
+                "stars": 31767,
+                "topics": [
+                  "algorithm",
+                  "coding",
+                  "competitive-programming",
+                  "data-structure",
+                  "development",
+                  "interview",
+                  "interview-practice",
+                  "interview-questions",
+                  "programming",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -1112,12 +1742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. ",
+                "homepage": "http://www.nczonline.net/",
                 "id": 173796,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-08T20:38:10Z",
+                "open_issues": 12,
                 "owner": "humanwhocodes",
                 "repo": "computer-science-in-javascript",
-                "stars": 9109
+                "stars": 9109,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
             }
@@ -1131,15 +1766,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:52:41.863Z",
+    "last_updated": "2026-08-29T04:51:24.098Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools",
+      "homepage": null,
       "id": 65449846,
       "language": null,
+      "license": null,
       "last_commit": "2022-11-29T12:36:21Z",
+      "open_issues": 2,
       "owner": "quantmind",
       "repo": "awesome-data-science-viz",
-      "stars": 184
+      "stars": 184,
+      "topics": [
+        "algorithm",
+        "awesome",
+        "awesome-list",
+        "javscript",
+        "machine-learning",
+        "nlp",
+        "python",
+        "reference",
+        "resources"
+      ]
     },
     "original_repository_sha": "79d72e0bcd9e4571cc1756dc102c0cd6be9950df",
     "enhanced_repository": "enhansome/enhansome-data-science-viz",
