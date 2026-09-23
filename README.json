@@ -17,11 +17,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T13:54:11Z",
+                "last_commit": "2026-09-22T12:17:28Z",
                 "open_issues": 20,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74393,
+                "stars": 74410,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
@@ -42,7 +42,7 @@
                 "open_issues": 226,
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49969,
+                "stars": 49982,
                 "topics": [
                   "jupyter-notebook",
                   "matplotlib",
@@ -67,10 +67,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2022-11-27T13:18:32Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39570,
+                "stars": 39572,
                 "topics": [
                   "deep-learning"
                 ]
@@ -93,7 +93,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29354,
+                "stars": 29355,
                 "topics": [
                   "aws",
                   "big-data",
@@ -212,11 +212,11 @@
                 "id": 843222,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T14:56:13Z",
-                "open_issues": 2154,
+                "last_commit": "2026-09-22T17:24:59Z",
+                "open_issues": 2155,
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67337,
+                "stars": 67351,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -239,11 +239,11 @@
                 "id": 33015583,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T04:21:25Z",
-                "open_issues": 225,
+                "last_commit": "2026-09-23T04:10:52Z",
+                "open_issues": 244,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64325,
+                "stars": 64330,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -294,11 +294,11 @@
                 "id": 16587283,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T07:19:36Z",
-                "open_issues": 434,
+                "last_commit": "2026-09-22T21:14:34Z",
+                "open_issues": 436,
                 "owner": "dmlc",
                 "repo": "xgboost",
-                "stars": 28784,
+                "stars": 28786,
                 "topics": [
                   "distributed-systems",
                   "gbdt",
@@ -368,7 +368,7 @@
                 "open_issues": 299,
                 "owner": "torch",
                 "repo": "torch7",
-                "stars": 9140,
+                "stars": 9141,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
@@ -385,11 +385,11 @@
                 "id": 265995,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T01:34:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-23T00:24:47Z",
+                "open_issues": 1,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8721,
+                "stars": 8720,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -422,7 +422,7 @@
                 "id": 46130068,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-22T06:44:08Z",
+                "last_commit": "2026-09-22T12:14:55Z",
                 "open_issues": 0,
                 "owner": "Artelnics",
                 "repo": "opennn",
@@ -482,7 +482,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37236,
+                "stars": 37237,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
@@ -503,7 +503,7 @@
                 "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9575,
+                "stars": 9573,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -588,7 +588,7 @@
                 "open_issues": 229,
                 "owner": "aymericdamien",
                 "repo": "TensorFlow-Examples",
-                "stars": 43741,
+                "stars": 43743,
                 "topics": [
                   "deep-learning",
                   "examples",
@@ -616,7 +616,7 @@
                 "open_issues": 3,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8835,
+                "stars": 8837,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:52:41.863Z"
@@ -646,11 +646,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T07:12:56Z",
-                "open_issues": 2402,
+                "last_commit": "2026-09-23T07:19:50Z",
+                "open_issues": 2400,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 166505,
+                "stars": 166553,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -691,7 +691,7 @@
                 "open_issues": 245,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33912,
+                "stars": 33916,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -748,10 +748,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T04:39:39Z",
-                "open_issues": 258,
+                "open_issues": 260,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14723,
+                "stars": 14724,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -778,7 +778,7 @@
                 "open_issues": 71,
                 "owner": "sloria",
                 "repo": "TextBlob",
-                "stars": 9548,
+                "stars": 9549,
                 "topics": [
                   "natural-language-processing",
                   "nlp",
@@ -802,7 +802,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-03T13:07:08Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "Mimino666",
                 "repo": "langdetect",
                 "stars": 1903,
@@ -1142,7 +1142,7 @@
                 "open_issues": 300,
                 "owner": "binux",
                 "repo": "pyspider",
-                "stars": 16766,
+                "stars": 16765,
                 "topics": [
                   "crawler",
                   "python"
@@ -1163,10 +1163,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T17:57:43Z",
-                "open_issues": 515,
+                "open_issues": 516,
                 "owner": "codelucas",
                 "repo": "newspaper",
-                "stars": 15160,
+                "stars": 15162,
                 "topics": [
                   "crawler",
                   "crawling",
@@ -1294,10 +1294,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T14:56:56Z",
-                "open_issues": 582,
+                "open_issues": 583,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67704,
+                "stars": 67714,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1321,11 +1321,11 @@
                 "id": 45646037,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T05:52:49Z",
-                "open_issues": 785,
+                "last_commit": "2026-09-22T19:05:29Z",
+                "open_issues": 784,
                 "owner": "plotly",
                 "repo": "plotly.js",
-                "stars": 18338,
+                "stars": 18339,
                 "topics": [
                   "charting-library",
                   "charts",
@@ -1356,7 +1356,7 @@
                 "open_issues": 147,
                 "owner": "frappe",
                 "repo": "charts",
-                "stars": 15082,
+                "stars": 15083,
                 "topics": [
                   "chart",
                   "graph",
@@ -1385,7 +1385,7 @@
                 "open_issues": 183,
                 "owner": "antvis",
                 "repo": "G2",
-                "stars": 12614,
+                "stars": 12616,
                 "topics": [
                   "animation",
                   "canvas",
@@ -1450,11 +1450,11 @@
                 "id": 33702544,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T23:22:11Z",
-                "open_issues": 440,
+                "last_commit": "2026-09-22T20:00:06Z",
+                "open_issues": 433,
                 "owner": "plotly",
                 "repo": "dash",
-                "stars": 24423,
+                "stars": 24425,
                 "topics": [
                   "ai",
                   "bioinformatics",
@@ -1680,11 +1680,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T15:48:45Z",
+                "last_commit": "2026-09-22T12:25:13Z",
                 "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 322212,
+                "stars": 322408,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1712,7 +1712,7 @@
                 "open_issues": 75,
                 "owner": "donnemartin",
                 "repo": "interactive-coding-challenges",
-                "stars": 31840,
+                "stars": 31846,
                 "topics": [
                   "algorithm",
                   "coding",
@@ -1766,7 +1766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:23:55.270Z",
+    "last_updated": "2026-09-23T07:26:38.779Z",
     "original_repository_info": {
       "archived": false,
       "description": ":boom: :chart_with_upwards_trend: A curated list of data science, analysis and visualization tools",
