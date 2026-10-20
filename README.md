@@ -46,20 +46,20 @@ emphasis on [python][], [d3][] and web applications.
 
 ### Resources
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,611 | 🐛 24 | 🌐 Python | 📅 2026-10-13 comprehensive list of machine learning resources
-* [Python data-science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,172 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2024-06-26
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,587 | 🐛 93 | 🌐 Python | 📅 2022-11-27
-* [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,370 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,185 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,621 | 🐛 23 | 🌐 Python | 📅 2026-10-19 comprehensive list of machine learning resources
+* [Python data-science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,179 | 🐛 226 | 🌐 Jupyter Notebook | 📅 2024-06-26
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,588 | 🐛 93 | 🌐 Python | 📅 2022-11-27
+* [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,372 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,184 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 * [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) ⚠️ Archived collections of links and notebooks for a gentle introduction to machine learning
-* [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) ⭐ 6,371 | 🐛 20 | 🌐 Python | 📅 2026-07-15 is a list of popular github projects related to deep learning (ranked by stars)
+* [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) ⭐ 6,372 | 🐛 20 | 🌐 Python | 📅 2026-07-15 is a list of popular github projects related to deep learning (ranked by stars)
 
 ### Frameworks
 
-* [Scikit Learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,817 | 🐛 2,163 | 🌐 Python | 📅 2026-10-18 is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
-* [Keras](https://github.com/fchollet/keras) ⭐ 64,372 | 🐛 233 | 🌐 Python | 📅 2026-10-19 Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,557 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
-* [XGboost](https://github.com/dmlc/xgboost) ⭐ 28,888 | 🐛 455 | 🌐 C++ | 📅 2026-10-19 an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
+* [Scikit Learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,848 | 🐛 2,157 | 🌐 Python | 📅 2026-10-20 is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
+* [Keras](https://github.com/fchollet/keras) ⭐ 64,373 | 🐛 247 | 🌐 Python | 📅 2026-10-20 Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,558 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
+* [XGboost](https://github.com/dmlc/xgboost) ⭐ 28,892 | 🐛 451 | 🌐 C++ | 📅 2026-10-19 an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 * [Tpot](https://github.com/rhiever/tpot) ⭐ 10,056 | 🐛 311 | 🌐 Jupyter Notebook | 📅 2025-09-11 is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 * [Torch](https://github.com/torch/torch7) ⭐ 9,139 | 🐛 299 | 🌐 C | 📅 2025-03-31 provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) ⭐ 8,730 | 🐛 0 | 🌐 C++ | 📅 2026-10-15 is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
@@ -70,21 +70,21 @@ emphasis on [python][], [d3][] and web applications.
 
 ### Neural networks
 
-* [OpenNN](https://github.com/Artelnics/OpenNN) ⭐ 1,203 | 🐛 2 | 🌐 C++ | 📅 2026-10-16 a neural network C++ library
+* [OpenNN](https://github.com/Artelnics/OpenNN) ⭐ 1,203 | 🐛 2 | 🌐 C++ | 📅 2026-10-19 a neural network C++ library
 * [Brainforge](https://github.com/csxeba/brainforge) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-07-30 A Neural Networking library based on NumPy only
 * [deeplearn.js](https://pair-code.github.io/deeplearnjs/) a neural network library for the web
 
 ### Reinforcement Learning
 
 * [Gym](https://github.com/openai/gym) ⚠️ Archived A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
-* [TFLearn](https://github.com/tflearn/tflearn) ⭐ 9,568 | 🐛 579 | 🌐 Python | 📅 2024-05-06 is a deep learning library featuring a higher-level API for [TensorFlow][].
+* [TFLearn](https://github.com/tflearn/tflearn) ⭐ 9,569 | 🐛 579 | 🌐 Python | 📅 2024-05-06 is a deep learning library featuring a higher-level API for [TensorFlow][].
 * [Tensorforce](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02 a TensorFlow library for applied reinforcement learning
 * [Keras-rl](https://github.com/matthiasplappert/keras-rl) ⭐ 12 | 🐛 0 | 📅 2022-05-23 Deep Reinforcement Learning for Keras.
 
 ### Examples
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,740 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 a [TensorFlow][] tutorial with popular machine learning algorithms implementation
-* [AIMA python](https://github.com/aimacode/aima-python) ⭐ 8,860 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-08 Python code for the book [Artificial Intelligence: A Modern Approach](https://www.amazon.co.uk/Artificial-Intelligence-Approach-Stuart-Russell/dp/1292153962)
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,741 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 a [TensorFlow][] tutorial with popular machine learning algorithms implementation
+* [AIMA python](https://github.com/aimacode/aima-python) ⭐ 8,861 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-08 Python code for the book [Artificial Intelligence: A Modern Approach](https://www.amazon.co.uk/Artificial-Intelligence-Approach-Stuart-Russell/dp/1292153962)
 
 ## NLP
 
@@ -93,18 +93,18 @@ algorithms.
 
 ### Analysis
 
-* [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 167,836 | 🐛 2,334 | 🌐 Python | 📅 2026-10-19 State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0
-* [SpaCy](https://github.com/spacy-io/spaCy) ⭐ 33,972 | 🐛 252 | 🌐 Python | 📅 2026-10-12 is a powerful, production ready, NLP library for python
+* [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 167,883 | 🐛 2,301 | 🌐 Python | 📅 2026-10-20 State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0
+* [SpaCy](https://github.com/spacy-io/spaCy) ⭐ 33,973 | 🐛 253 | 🌐 Python | 📅 2026-10-12 is a powerful, production ready, NLP library for python
 * [fastText](https://github.com/facebookresearch/fastText) ⚠️ Archived a C++ library for sentence classification
-* [Natural Language Toolkit](https://github.com/nltk/nltk) ⭐ 14,743 | 🐛 220 | 🌐 Python | 📅 2026-10-19 (NLTK) is a suite of python modules, data sets and tutorials supporting research and development in [NLP][]. Some of its modules are out of date but still a useful resource nonetheless.
-* [TextBlob](https://github.com/sloria/TextBlob) ⭐ 9,552 | 🐛 79 | 🌐 Python | 📅 2026-10-13 is a python library for processing textual data. It provides a simple API for diving into common [NLP][] tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+* [Natural Language Toolkit](https://github.com/nltk/nltk) ⭐ 14,745 | 🐛 216 | 🌐 Python | 📅 2026-10-20 (NLTK) is a suite of python modules, data sets and tutorials supporting research and development in [NLP][]. Some of its modules are out of date but still a useful resource nonetheless.
+* [TextBlob](https://github.com/sloria/TextBlob) ⭐ 9,552 | 🐛 79 | 🌐 Python | 📅 2026-10-20 is a python library for processing textual data. It provides a simple API for diving into common [NLP][] tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 * [langdetect](https://github.com/Mimino666/langdetect) ⭐ 1,905 | 🐛 73 | 🌐 Python | 📅 2025-03-03 is a port of Google's language-detection library to Python.
 * [simhash](https://github.com/leonsim/simhash) ⭐ 1,038 | 🐛 7 | 🌐 Python | 📅 2022-03-24 a python implementation of [Simhash Algorithm](http://www.wwwconference.org/www2007/papers/paper215.pdf) for detecting near-duplicate web documents
 
 ### Tools
 
 * [dataprofiler](https://github.com/capitalone/DataProfiler) ⭐ 1,596 | 🐛 83 | 🌐 Python | 📅 2026-09-14 The DataProfiler is a Python library designed to make data analysis, monitoring and sensitive data detection easy. NLP processing is accomplished using a character-level CNN.
-* [inflect.py](https://github.com/pwdyson/inflect.py) ⭐ 1,081 | 🐛 72 | 🌐 Python | 📅 2026-10-17 Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+* [inflect.py](https://github.com/pwdyson/inflect.py) ⭐ 1,082 | 🐛 72 | 🌐 Python | 📅 2026-10-17 Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 
 ### Resources
 
@@ -118,9 +118,9 @@ algorithms.
 
 ### Frameworks
 
-* [CovNetJS](https://github.com/karpathy/convnetjs) ⭐ 11,208 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07 train Convolutional Neural Networks (or ordinary ones) in the browser
+* [CovNetJS](https://github.com/karpathy/convnetjs) ⭐ 11,209 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07 train Convolutional Neural Networks (or ordinary ones) in the browser
 * [srez](https://github.com/david-gpu/srez) ⚠️ Archived Image super-resolution through deep learning
-* [Noteshrink](https://github.com/mzucker/noteshrink) ⭐ 4,844 | 🐛 21 | 🌐 Python | 📅 2024-03-20 Convert scans of handwritten notes to beautiful, compact PDFs
+* [Noteshrink](https://github.com/mzucker/noteshrink) ⭐ 4,843 | 🐛 21 | 🌐 Python | 📅 2024-03-20 Convert scans of handwritten notes to beautiful, compact PDFs
 * [SimpleCV](https://github.com/sightmachine/SimpleCV) ⭐ 2,733 | 🐛 121 | 🌐 Python | 📅 2024-12-20 is a framework for machine vision, using [OpenCV][] and Python. It provides a concise, readable interface for cameras, image manipulation, feature extraction, and format conversion.
 * [match](https://github.com/usepavlov/match) ⭐ 1,263 | 🐛 17 | 🌐 Python | 📅 2020-07-25 makes it easy to search for images that look similar to each other
 * [tesseract-ocr][] well tested [OCR][] engine written in C++
@@ -138,7 +138,7 @@ algorithms.
 ### Aggregators
 
 * [pyspider](https://github.com/binux/pyspider) ⚠️ Archived a web crawler system in python.
-* [Newspaper](https://github.com/codelucas/newspaper) ⭐ 15,177 | 🐛 515 | 🌐 Python | 📅 2026-10-19 News, full-text, and article metadata extraction in Python 3.
+* [Newspaper](https://github.com/codelucas/newspaper) ⭐ 15,179 | 🐛 515 | 🌐 Python | 📅 2026-10-19 News, full-text, and article metadata extraction in Python 3.
 
 ### Explore
 
@@ -158,23 +158,23 @@ algorithms.
 
 ### JavaScript Libraries
 
-* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,746 | 🐛 610 | 🌐 JavaScript | 📅 2026-10-04 HTML5 Charts using the canvas tag
-* [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,362 | 🐛 807 | 🌐 JavaScript | 📅 2026-10-16 charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
-* [frappe/charts](https://github.com/frappe/charts) ⭐ 15,088 | 🐛 148 | 🌐 JavaScript | 📅 2026-10-15 Simple, responsive, modern SVG Charts with zero dependencies
-* [G2](https://github.com/antvis/g2) ⭐ 12,638 | 🐛 181 | 🌐 TypeScript | 📅 2026-10-19 is a visualization grammar, a data-driven visual language with a high level of usability and scalability
+* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,752 | 🐛 611 | 🌐 JavaScript | 📅 2026-10-04 HTML5 Charts using the canvas tag
+* [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,364 | 🐛 802 | 🌐 JavaScript | 📅 2026-10-19 charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
+* [frappe/charts](https://github.com/frappe/charts) ⭐ 15,088 | 🐛 148 | 🌐 JavaScript | 📅 2026-10-19 Simple, responsive, modern SVG Charts with zero dependencies
+* [G2](https://github.com/antvis/g2) ⭐ 12,638 | 🐛 181 | 🌐 TypeScript | 📅 2026-10-20 is a visualization grammar, a data-driven visual language with a high level of usability and scalability
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS) ⭐ 995 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-14 A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 
 ### Python Libraries
 
-* [dash](https://github.com/plotly/dash/) ⭐ 24,458 | 🐛 433 | 🌐 Python | 📅 2026-10-15 Dash is a Python framework for building analytical web applications
+* [dash](https://github.com/plotly/dash/) ⭐ 24,460 | 🐛 433 | 🌐 Python | 📅 2026-10-19 Dash is a Python framework for building analytical web applications
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-09 plotting library for IPython/Jupyter notebooks - front-end in [d3][]
 * [bokeh](https://bokeh.pydata.org/en/latest/) an interactive visualization library that targets modern web browsers for presentation
 * [Altair](https://altair-viz.github.io/) declarative statistical visualization library for Python, based on Vega and Vega-Lite
 
 ### D3 based libraries
 
-* [C3.js](https://github.com/c3js/c3) ⭐ 9,353 | 🐛 773 | 🌐 JavaScript | 📅 2026-10-18 D3-based reusable chart library
-* [dc.js](https://github.com/dc-js/dc.js) ⭐ 7,428 | 🐛 410 | 🌐 JavaScript | 📅 2024-07-31 Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+* [C3.js](https://github.com/c3js/c3) ⭐ 9,352 | 🐛 773 | 🌐 JavaScript | 📅 2026-10-18 D3-based reusable chart library
+* [dc.js](https://github.com/dc-js/dc.js) ⭐ 7,429 | 🐛 410 | 🌐 JavaScript | 📅 2024-07-31 Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [tau Charts](https://github.com/TargetProcess/tauCharts) ⭐ 1,898 | 🐛 100 | 🌐 JavaScript | 📅 2023-10-04
 * [semiotic](https://github.com/emeeks/semiotic) ⭐ 6 | 🐛 0 | 📅 2019-03-04 a data visualization framework combining React & D3
 * [brite Charts](https://github.com/eventbrite/britecharts) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2023-05-17 reusable Charting Library based on D3.js v4 by <https://www.eventbrite.co.uk/>
@@ -191,8 +191,8 @@ algorithms.
 
 ### Python
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 328,558 | 🐛 16 | 🌐 Python | 📅 2026-10-19 A curated list of awesome Python frameworks, libraries, software and resources.
-* [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,922 | 🐛 75 | 🌐 Python | 📅 2024-05-08 which focus on algorithms and data structures that are typically found in coding interviews
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 328,820 | 🐛 16 | 🌐 Python | 📅 2026-10-19 A curated list of awesome Python frameworks, libraries, software and resources.
+* [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,925 | 🐛 75 | 🌐 Python | 📅 2024-05-08 which focus on algorithms and data structures that are typically found in coding interviews
 
 ### JavaScript
 
@@ -227,4 +227,4 @@ To the extent possible under law, [Quantmind](http://quantmind.com) has waived a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
